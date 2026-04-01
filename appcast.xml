@@ -22,6 +22,21 @@
         - sparkle:edSignature (output of Sparkle's sign_update for the DMG)
         - pubDate
     -->
+
+    <item>
+      <title>Version 1.0.2</title>
+      <sparkle:version>3</sparkle:version>
+      <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+      <pubDate>Wed 1 Apr 2026 10:00:00 +0000</pubDate>
+      <enclosure
+          url="https://github.com/NorthBatch/BatteryThrottle-releases/releases/download/v1.0.3/BatteryThrottle_version1.0.2.dmg"
+          length="5137321"
+          type="application/x-apple-diskimage"
+          sparkle:edSignature="rRC1JijmcE5Sj+DL22P+jSgoflaEwx1wa9snZM0YpS+TXvzJRnSd96HUhVlQ755KPlDAoK46c9Ur6zAy49UeCg=="  />
+    </item>
+
+
+       
     <item>
       <title>Version 1.0.1</title>
       <sparkle:version>2</sparkle:version>
