@@ -2,7 +2,7 @@
 
 BatteryThrottle for MacOS laptops. Free trial with license available on Gumroad.
 
-# Why this app?
+# Why I made this app
 
 I’m a retired professor of battery chemistry so it annoys me to run my laptop off the A/C plug while watching my battery sit at a level that ages it unnecessarily. I wanted a simple one-click interface that does two things:
 
@@ -13,6 +13,10 @@ I’m a retired professor of battery chemistry so it annoys me to run my laptop 
                     My research career involved collaborations with future battery chemistries as well as currently popular ones, so I suggest optimum charge levels based on my best estimate of Apple's cell chemistry. I certainly wouldn't say that MacBooks use a bad battery management system, but there's no doubt you'll do better if you take direct control. The software can only guess at what you're going to do, and cannot be as good as you since you know what your plans are.
 
 As Apple so often does, it tries to make the battery controls a little too automatic and that's not ideal if you're a savvy user. Even the new controls they are considering adding don't let you take full control. If you want to try getting that control back, give this app a free test for a couple weeks and see if you prefer it.
+
+# Why should you choose this app
+
+This app is streamlined for easy use. It does the things you need without extra clutter or baggage. And it's cheaper. Free to try for a couple of weeks and then way cheaper than the alternatives. Despite the low cost, a full updating framework is included so that the app will continue to work long term. And your battery will too.
 
 # Usage
 The main interface is designed to be user friendly:
