@@ -24,39 +24,28 @@
     -->
 
     <item>
-      <title>Version 1.0.2</title>
-      <sparkle:version>3</sparkle:version>
+      <title>Version 1.0.1</title>
+      <sparkle:version>1</sparkle:version>
       <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
-      <pubDate>Wed 1 Apr 2026 10:00:00 +0000</pubDate>
+      <pubDate>Wed 16 Apr 2026 10:00:00 +0000</pubDate>
       <enclosure
-          url="https://github.com/NorthBatch/BatteryThrottle-releases/releases/download/v1.0.3/BatteryThrottle_version1.0.2.dmg"
-          length="5137321"
+          url="https://github.com/NorthBatch/BatteryThrottle-releases/releases/download/v1.0.1/BatteryThrottle_version1.0.1.dmg"
+          length="55317315"
           type="application/x-apple-diskimage"
-          sparkle:edSignature="rRC1JijmcE5Sj+DL22P+jSgoflaEwx1wa9snZM0YpS+TXvzJRnSd96HUhVlQ755KPlDAoK46c9Ur6zAy49UeCg=="  />
+          sparkle:edSignature="VvqR1+ModzuawFH/9gv+4IQSIVf71BT0qlaEWC5eH34DYIr8pwxij2pzPtSlJPOuCX0gOcZmHJZi20gpGbNaCw==" />
     </item>
 
 
        
-    <item>
-      <title>Version 1.0.1</title>
-      <sparkle:version>2</sparkle:version>
-      <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
-      <pubDate>Tue, 31 Mar 2026 20:00:00 +0000</pubDate>
-      <enclosure
-          url="https://github.com/NorthBatch/BatteryThrottle-releases/releases/download/v1.0.1/BatteryThrottle_version1.0.1.dmg"
-          length="5131111"
-          type="application/x-apple-diskimage"
-          sparkle:edSignature="twJf/Bp7676DlTi5VXSnhcrZi1Rs8NU4lwMpwiSJ7bi+cX3Qggc9YVANR9vMmBsygHtDs7zs8AFn9cV44rPsBg=="  />
-    </item>
 
 
     <item>
-      <title>Version 1.0.0</title>
+      <title>Version 0.9.0</title>
       <sparkle:version>1</sparkle:version>
       <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
       <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
       <enclosure
-          url="https://github.com/NorthBatch/BatteryThrottle-releases/releases/download/v1.0.0/BatteryThrottle_version1.0.dmg"
+          url="https://github.com/NorthBatch/BatteryThrottle-releases/releases/download/v1.0.0/BatteryThrottle_version0.9.dmg"
           length="5131090"
           type="application/x-apple-diskimage"
           sparkle:edSignature="vCmhnow1ybKz6e80g8qj0UuiwmgzIP50F7nKieJzsJYo/IYWWDDf9vTSFGwJxeeJ0NeAq6Ndtr9vIElnNA8cAQ=="  />
