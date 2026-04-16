@@ -1,6 +1,6 @@
 # BatteryThrottle-releases
 
-[BatteryThrottle](https://northbatchco.com/BatteryThrottle/) for MacOS laptops. Free trial period by downloading under [Releases](https://github.com/NorthBatch/BatteryThrottle-releases/releases) in this GitHub repo. License for long term use available within the app or on [Polar.sh](https://buy.polar.sh/polar_cl_bzywirJnYbwayG9nA9AaEWBd8vpEkBW6nYcq52b4FHh).
+[BatteryThrottle](https://northbatchco.com/BatteryThrottle/index.html) for MacOS laptops. Free trial period by downloading under [Releases](https://github.com/NorthBatch/BatteryThrottle-releases/releases) in this GitHub repo. License for long term use available within the app or on [Polar.sh](https://buy.polar.sh/polar_cl_bzywirJnYbwayG9nA9AaEWBd8vpEkBW6nYcq52b4FHh).
 
 # Why I made this app
 
