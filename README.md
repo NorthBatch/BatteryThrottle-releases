@@ -22,7 +22,7 @@ The app switches between these three modes:
 
 # Why should you choose this app?
 
-I did collaborations with a variety of scientists in the inudstrial Li-ion battery sector when I was an academic, so I have a pretty good guess on the internal chemistry of MacBook cells. In the app, I suggest optimum charge levels and rates based on that knowledge, given as ranges that encompass the possible stoichiometries, dopants and additives that Apple might employ. I certainly wouldn't say that MacBooks use a bad battery management system, BUT that software can only guess about your plans for the day so there's no doubt you'll do better if you take direct control. 
+I've done collaborations with a wide variety of scientists in the inudstrial Li-ion battery sector as an academic, so I have a pretty good guess on the internal chemistry of MacBook cells. In the app, I suggest optimum charge levels and rates based on that knowledge, given as ranges that encompass the possible stoichiometries, dopants and additives that Apple might employ. I certainly wouldn't say that MacBooks use a bad battery management system, BUT that software can only guess about your plans for the day so there's no doubt you'll do better if you take direct control. 
 
 This app is streamlined for easy use. It does the things you need without extra clutter or baggage. Free to try for a couple of weeks and then if you want to continue, it's way cheaper than the alternatives. 
 
